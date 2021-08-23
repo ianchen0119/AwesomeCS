@@ -1,5 +1,5 @@
 # AwesomeCS
-> The project is written for preparation of Ithelp-13th-ironman🔥
+> The project is written for preparation of [Ithelp-13th-ironman](https://ithelp.ithome.com.tw/users/20110850/ironman/3859)🔥
 
 Welcome to the [AwesomeCS wiki](https://github.com/ianchen0119/AwesomeCS/wiki)!
 
